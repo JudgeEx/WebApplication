@@ -1,0 +1,26 @@
+{
+  "name": "WebApplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JudgeEx/WebApplication.git"
+  },
+  "keywords": [],
+  "author": "TooYoungTooSimp",
+  "bugs": {
+    "url": "https://github.com/JudgeEx/WebApplication/issues"
+  },
+  "homepage": "https://github.com/JudgeEx/WebApplication#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bootstrap": "^4.1.0",
+    "@types/jquery": "^3.3.2",
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-typescript": "^4.0.2",
+    "vue": "^2.5.16"
+  }
+}
